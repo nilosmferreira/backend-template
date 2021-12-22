@@ -1,0 +1,10 @@
+{
+  "name": "backend-model",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.3"
+  }
+}
