@@ -1,5 +1,5 @@
 {
   "*.ts": [
-    "echo teste"
+    "eslint . --fix --ext ts"
   ]
 }
